@@ -1,0 +1,9 @@
+SYSTEM INFO
+===========
+Timestamp: 2026-09-25 22:08:43.982899
+Hostname: Admins-MacBook-Pro-M5.local
+Operating system: Darwin
+OS version: Darwin Kernel Version 25.6.0: Fri Jul 31 19:11:03 PDT 2026; root:xnu-12377.161.14~5/RELEASE_ARM64_T8132
+Machine type: x86_64
+Current user ID: 503
+Current working directory: /Users/Twolliston/Documents/TheoWAF/cpg/cloudfundamentals/fall_2026_bootcamp/live-server-diagnostics
